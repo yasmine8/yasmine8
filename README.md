@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
-<h3 align="center">A blockchain developer</h3>
+<h3 align="center">Full-Stack Blockchain Developer</h3>
 
 </br>
 
